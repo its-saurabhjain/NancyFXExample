@@ -37,7 +37,7 @@ namespace NancyFXExample
 
         private dynamic Index(dynamic parameters)
         {
-            return "Hello Saurabh Jain" ;
+            return "Hello Saurabh Hello Shira" ;
         }
 
         private dynamic JsonTest(dynamic parameters)
