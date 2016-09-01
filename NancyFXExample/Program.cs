@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 namespace NancyFXExample
 {
     class Program
+    
     {
         static void Main(string[] args)
         {
